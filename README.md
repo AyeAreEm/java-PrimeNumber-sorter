@@ -5,7 +5,7 @@ Prime number sorter in java
 
 it asks user for the low number, then the high number. It takes the range of numbers from the low and the high and prints the prime numbers in it.
 
-##h how  it works in code
+## how  it works in code
 
 ```java
   //check if it is prime or not
